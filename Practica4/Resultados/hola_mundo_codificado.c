@@ -1,0 +1,1 @@
+b'I2luY2x1ZGUgPHN0ZGlvLmg+CgppbnQgbWFpbigpIHsKICBwcmludGYoIkhvbGEgbXVuZG8iKTsKICByZXR1cm4gMDsKfQo='
