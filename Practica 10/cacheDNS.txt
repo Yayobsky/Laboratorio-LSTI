@@ -1,0 +1,722 @@
+Configuración IP de Windows
+
+    gateway.discord.gg
+    ----------------------------------------
+    Nombre de registro  . : gateway.discord.gg
+    Tipo de registro  . . : 1
+    Período de vida . . . : 131
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.134.234
+
+
+    Nombre de registro  . : gateway.discord.gg
+    Tipo de registro  . . : 1
+    Período de vida . . . : 131
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.135.234
+
+
+    Nombre de registro  . : gateway.discord.gg
+    Tipo de registro  . . : 1
+    Período de vida . . . : 131
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.130.234
+
+
+    Nombre de registro  . : gateway.discord.gg
+    Tipo de registro  . . : 1
+    Período de vida . . . : 131
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.136.234
+
+
+    Nombre de registro  . : gateway.discord.gg
+    Tipo de registro  . . : 1
+    Período de vida . . . : 131
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.133.234
+
+
+    rr1---sn-0opoxu-hutee.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : rr1---sn-0opoxu-hutee.googlevideo.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 288
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : rr1.sn-0opoxu-hutee.googlevideo.com
+
+
+    Nombre de registro  . : rr1.sn-0opoxu-hutee.googlevideo.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 288
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 189.247.145.76
+
+
+    rr1---sn-0opoxu-hutee.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : rr1---sn-0opoxu-hutee.googlevideo.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 288
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : rr1.sn-0opoxu-hutee.googlevideo.com
+
+
+    Nombre de registro  . : rr1.sn-0opoxu-hutee.googlevideo.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 288
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 189.247.145.76
+
+
+    fp-vs.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : fp-vs.azureedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 1224
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : fp-vs.ec.azureedge.net
+
+
+    Nombre de registro  . : fp-vs.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 1224
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 28
+    Período de vida . . . : 1224
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:2800:11f:17a5:191a:18d5:537:22f9
+
+
+    fp-vs.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : fp-vs.azureedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 512
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : fp-vs.ec.azureedge.net
+
+
+    Nombre de registro  . : fp-vs.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 512
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 512
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 72.21.81.200
+
+
+    fp-vp.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : fp-vp.azureedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 1533
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : fp-vp.ec.azureedge.net
+
+
+    Nombre de registro  . : fp-vp.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 1533
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1533
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 72.21.81.200
+
+
+    fp-vp.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : fp-vp.azureedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 643
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : fp-vp.ec.azureedge.net
+
+
+    Nombre de registro  . : fp-vp.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 643
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 28
+    Período de vida . . . : 643
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:2800:11f:17a5:191a:18d5:537:22f9
+
+
+    tpc.googlesyndication.com
+    ----------------------------------------
+    Nombre de registro  . : tpc.googlesyndication.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 132
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:813::2001
+
+
+    sentry.io
+    ----------------------------------------
+    Nombre de registro  . : sentry.io
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2819
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 35.188.42.15
+
+
+    spclient.wg.spotify.com
+    ----------------------------------------
+    Nombre de registro  . : spclient.wg.spotify.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 27
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : edge-web.dual-gslb.spotify.com
+
+
+    Nombre de registro  . : edge-web.dual-gslb.spotify.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 27
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2600:1901:1:c36::
+
+
+    fp-vs-nocache.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : fp-vs-nocache.azureedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 392
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : fp-vs-nocache.ec.azureedge.net
+
+
+    Nombre de registro  . : fp-vs-nocache.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 392
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 392
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 72.21.81.200
+
+
+    fp-vs-nocache.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : fp-vs-nocache.azureedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 595
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : fp-vs-nocache.ec.azureedge.net
+
+
+    Nombre de registro  . : fp-vs-nocache.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 595
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 28
+    Período de vida . . . : 595
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:2800:11f:17a5:191a:18d5:537:22f9
+
+
+    ap-guc3.spotify.com
+    ----------------------------------------
+    Nombre de registro  . : ap-guc3.spotify.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 85
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 104.154.127.126
+
+
+    www.googletagservices.com
+    ----------------------------------------
+    Nombre de registro  . : www.googletagservices.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 39
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.130
+
+
+    www.googletagservices.com
+    ----------------------------------------
+    Nombre de registro  . : www.googletagservices.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 51
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:810::2002
+
+
+    api-partner.spotify.com
+    ----------------------------------------
+    Nombre de registro  . : api-partner.spotify.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 3
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : partners.wg.spotify.com
+
+
+    Nombre de registro  . : partners.wg.spotify.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 3
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : edge-web.dual-gslb.spotify.com
+
+
+    Nombre de registro  . : edge-web.dual-gslb.spotify.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 3
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 35.186.224.25
+
+
+    pagead2.googlesyndication.com
+    ----------------------------------------
+    Nombre de registro  . : pagead2.googlesyndication.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 24
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:813::2002
+
+
+    apresolve.spotify.com
+    ----------------------------------------
+    Nombre de registro  . : apresolve.spotify.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 146
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 34.98.74.57
+
+
+    apresolve.spotify.com
+    ----------------------------------------
+    Nombre de registro  . : apresolve.spotify.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 39
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2600:1901:0:524d::
+
+
+    securepubads.g.doubleclick.net
+    ----------------------------------------
+    Nombre de registro  . : securepubads.g.doubleclick.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 10
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : securepubads46.g.doubleclick.net
+
+
+    Nombre de registro  . : securepubads46.g.doubleclick.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 10
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.33.226
+
+
+    securepubads.g.doubleclick.net
+    ----------------------------------------
+    Nombre de registro  . : securepubads.g.doubleclick.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 28
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : securepubads46.g.doubleclick.net
+
+
+    Nombre de registro  . : securepubads46.g.doubleclick.net
+    Tipo de registro  . . : 28
+    Período de vida . . . : 28
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:813::2002
+
+
+    discord.com
+    ----------------------------------------
+    Nombre de registro  . : discord.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 29
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.137.232
+
+
+    Nombre de registro  . : discord.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 29
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.128.233
+
+
+    Nombre de registro  . : discord.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 29
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.135.232
+
+
+    Nombre de registro  . : discord.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 29
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.138.232
+
+
+    Nombre de registro  . : discord.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 29
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.136.232
+
+
+    continuum.dds.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : continuum.dds.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 1
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs-geo-dds.trafficmanager.net
+
+
+    Nombre de registro  . : cs-geo-dds.trafficmanager.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 52.138.124.216
+
+
+    status.discord.com
+    ----------------------------------------
+    Nombre de registro  . : status.discord.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 15
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.135.232
+
+
+    Nombre de registro  . : status.discord.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 15
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.128.233
+
+
+    Nombre de registro  . : status.discord.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 15
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.136.232
+
+
+    Nombre de registro  . : status.discord.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 15
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.138.232
+
+
+    Nombre de registro  . : status.discord.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 15
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.137.232
+
+
+    651f49941aa212bbc74b93e733a49b80.safeframe.googlesyndication.com
+    ----------------------------------------
+    Nombre de registro  . : 651f49941aa212bbc74b93e733a49b80.safeframe.googlesyndication.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 31
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : pagead-googlehosted.l.google.com
+
+
+    Nombre de registro  . : pagead-googlehosted.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 31
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.33
+
+
+    651f49941aa212bbc74b93e733a49b80.safeframe.googlesyndication.com
+    ----------------------------------------
+    Nombre de registro  . : 651f49941aa212bbc74b93e733a49b80.safeframe.googlesyndication.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 67
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : pagead-googlehosted.l.google.com
+
+
+    Nombre de registro  . : pagead-googlehosted.l.google.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 67
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:813::2001
+
+
+    updates.discord.com
+    ----------------------------------------
+    Nombre de registro  . : updates.discord.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 42
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.137.232
+
+
+    Nombre de registro  . : updates.discord.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 42
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.136.232
+
+
+    Nombre de registro  . : updates.discord.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 42
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.128.233
+
+
+    Nombre de registro  . : updates.discord.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 42
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.138.232
+
+
+    Nombre de registro  . : updates.discord.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 42
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.135.232
+
+
+    ocsp05.actalis.it
+    ----------------------------------------
+    Nombre de registro  . : ocsp05.actalis.it
+    Tipo de registro  . . : 5
+    Período de vida . . . : 12
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : ocsp.actalis.it
+
+
+    Nombre de registro  . : ocsp.actalis.it
+    Tipo de registro  . . : 1
+    Período de vida . . . : 12
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 109.70.240.130
+
+
+    dealer.spotify.com
+    ----------------------------------------
+    Nombre de registro  . : dealer.spotify.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 34
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : global-dealer-ssl.spotify.com
+
+
+    Nombre de registro  . : global-dealer-ssl.spotify.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 34
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 35.186.224.47
+
+
+    pypi.org
+    ----------------------------------------
+    Nombre de registro  . : pypi.org
+    Tipo de registro  . . : 1
+    Período de vida . . . : 57674
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 151.101.0.223
+
+
+    Nombre de registro  . : pypi.org
+    Tipo de registro  . . : 1
+    Período de vida . . . : 57674
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 151.101.64.223
+
+
+    Nombre de registro  . : pypi.org
+    Tipo de registro  . . : 1
+    Período de vida . . . : 57674
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 151.101.128.223
+
+
+    Nombre de registro  . : pypi.org
+    Tipo de registro  . . : 1
+    Período de vida . . . : 57674
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 151.101.192.223
+
+
+    pypi.org
+    ----------------------------------------
+    Nombre de registro  . : pypi.org
+    Tipo de registro  . . : 28
+    Período de vida . . . : 70921
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2a04:4e42:600::223
+
+
+    Nombre de registro  . : pypi.org
+    Tipo de registro  . . : 28
+    Período de vida . . . : 70921
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2a04:4e42::223
+
+
+    Nombre de registro  . : pypi.org
+    Tipo de registro  . . : 28
+    Período de vida . . . : 70921
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2a04:4e42:400::223
+
+
+    Nombre de registro  . : pypi.org
+    Tipo de registro  . . : 28
+    Período de vida . . . : 70921
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2a04:4e42:200::223
+
+
+    adservice.google.com
+    ----------------------------------------
+    Nombre de registro  . : adservice.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.226
+
+
+    github.githubassets.com
+    ----------------------------------------
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1390
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1390
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1390
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1390
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.154
